@@ -6,3 +6,4 @@ Funciona para ver que cambio se han realizado en archivos modificados
     + Muestra los cambios del ultimo commit comparadolo con los que tenemos en staged
 + git diff --cached
     + Realiza los mismo que --staged
+**Nota:***Si se utiliza git diff y los archivos ya fueron enviados o guardados con un commit esto no mostrara nada*
