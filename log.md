@@ -5,5 +5,7 @@
 - git log --pretty=<oneline, short, full, fuller> sirven para modificar el estilo de la salida en consola
 - git log --pretty=format"%h - %an, %ar : %s" sirve para personalizar la salida de informacion en consola
 - git log --pretty=format:"%h %s" --graph
-
-![Imgur](https://imgur.com/R3Nl6fm.png "Tabla")
+## Tabla con opciones de git log pretty=format
+![Imgur](https://imgur.com/R3Nl6fm.png "Tabla 1")
+## Opciones para formteo de salida
+![Imgur](https://imgur.com/oWvp4mu.png "Tabla 2")
