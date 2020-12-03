@@ -6,4 +6,4 @@
 - git log --pretty=format"%h - %an, %ar : %s" sirve para personalizar la salida de informacion en consola
 - git log --pretty=format:"%h %s" --graph
 
-[Imgur](https://imgur.com/R3Nl6fm)
+[Imgur](https://imgur.com/R3Nl6fm.png) "Tabla"
