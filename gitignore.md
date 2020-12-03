@@ -14,4 +14,4 @@ Funciona de tal forma que evita extenciones o nombres de archivos para esto se c
 * Ignora todos los archivos .pdf en la carpeta y subcarpeta
     * carpeta/**/*.pdf
 * Ignora varias extensiones de archivos que terminen en o y/o a
-    *.[oa]
+    * *.[oa]
