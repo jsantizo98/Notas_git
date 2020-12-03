@@ -7,6 +7,6 @@ Funciona para ver que cambio se han realizado en archivos modificados
 + git diff --cached
     + Realiza los mismo que --staged
 
-## Nota:
+#### Nota:
 *Si se utiliza git diff y los archivos ya fueron enviados o guardados con un commit esto no mostrara nada*
 
